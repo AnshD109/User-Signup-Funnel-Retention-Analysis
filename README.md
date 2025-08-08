@@ -1,5 +1,3 @@
-# User-Signup-Funnel-Retention-Analysis
-
 # OTPless Signup Funnel & Retention Analysis
 
 This project analyzes the signup funnel conversion and user retention for OTPless, a passwordless authentication platform.  
