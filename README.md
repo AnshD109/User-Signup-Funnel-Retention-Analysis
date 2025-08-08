@@ -77,5 +77,8 @@ Python · Pandas · Matplotlib · Seaborn · Jupyter Notebook
 
 ---
 
+## 📄 Proof of Experience
+
+Experience certificate(s) from OTPless are included in the [`certificates`](certificates/) folder.
 
 
