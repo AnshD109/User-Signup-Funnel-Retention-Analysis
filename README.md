@@ -58,7 +58,7 @@ Python · Pandas · Matplotlib · Seaborn · Jupyter Notebook
 ## 📦 Data
 
 - All user and event data is simulated, with random drop-offs and multiple return logins.
-- See [`data/sample_events.csv`](data/sample_events.csv) for details.
+- See [`data/sample_events_retention_fixed.csv`](data/sample_events_retention_fixed.csv) for details.
 
 ---
 
